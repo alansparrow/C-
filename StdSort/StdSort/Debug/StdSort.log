@@ -1,0 +1,3 @@
+﻿  StdSort.cpp
+d:\exp\c++\stdsort\stdsort\stdsort.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  StdSort.vcxproj -> D:\Exp\C++\StdSort\Debug\StdSort.exe
