@@ -1,5 +1,5 @@
 // ReadWriteByte.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// https://en.cppreference.com/w/cpp/language/types
 
 #include <iostream>
 #include <cstdint>
